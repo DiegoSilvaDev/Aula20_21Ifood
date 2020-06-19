@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\bin\Debug\netcoreapp3.1\Correção_Ifood.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Correção_Ifood\obj\Debug\netcoreapp3.1\Correção_Ifood.genruntimeconfig.cache
